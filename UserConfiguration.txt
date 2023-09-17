@@ -214,14 +214,14 @@ Send2Knob7: 38
 Send2Knob8: 39
 
 # TrackMuteButton1-TrackMuteButton8 control Track muting.
-TrackMuteButton1: -1
-TrackMuteButton2: -1
-TrackMuteButton3: -1
-TrackMuteButton4: -1
-TrackMuteButton5: -1
-TrackMuteButton6: -1
-TrackMuteButton7: -1
-TrackMuteButton8: -1
+TrackMuteButton1: 64
+TrackMuteButton2: 65
+TrackMuteButton3: 66
+TrackMuteButton4: 67
+TrackMuteButton5: 68
+TrackMuteButton6: 69
+TrackMuteButton7: 70
+TrackMuteButton8: 71
 
 # InvertMuteButtonFeedback specifies whether feedback sent
 # to TrackMuteButtons will be inverted (True) or not (False).
@@ -230,34 +230,34 @@ TrackMuteButton8: -1
 InvertMuteButtonFeedback: True
 
 # TrackSoloButton1-TrackSoloButton8 control Track soloing.
-TrackSoloButton1: -1
-TrackSoloButton2: -1
-TrackSoloButton3: -1
-TrackSoloButton4: -1
-TrackSoloButton5: -1
-TrackSoloButton6: -1
-TrackSoloButton7: -1
-TrackSoloButton8: -1
+TrackSoloButton1: 40
+TrackSoloButton2: 41
+TrackSoloButton3: 42
+TrackSoloButton4: 43
+TrackSoloButton5: 44
+TrackSoloButton6: 45
+TrackSoloButton7: 46
+TrackSoloButton8: 47
 
 # TrackSelectButton1-TrackSelectButton8 select Tracks.
-TrackSelectButton1: -1
-TrackSelectButton2: -1
-TrackSelectButton3: -1
-TrackSelectButton4: -1
-TrackSelectButton5: -1
-TrackSelectButton6: -1
-TrackSelectButton7: -1
-TrackSelectButton8: -1
+TrackSelectButton1: 24
+TrackSelectButton2: 25
+TrackSelectButton3: 26
+TrackSelectButton4: 27
+TrackSelectButton5: 28
+TrackSelectButton6: 29
+TrackSelectButton7: 30
+TrackSelectButton8: 31
 
 # TrackArmButton1-TrackArmButton8 control Track arming.
-TrackArmButton1: -1
-TrackArmButton2: -1
-TrackArmButton3: -1
-TrackArmButton4: -1
-TrackArmButton5: -1
-TrackArmButton6: -1
-TrackArmButton7: -1
-TrackArmButton8: -1
+TrackArmButton1: 32
+TrackArmButton2: 33
+TrackArmButton3: 34
+TrackArmButton4: 35
+TrackArmButton5: 36
+TrackArmButton6: 37
+TrackArmButton7: 38
+TrackArmButton8: 39
 
 # NextBankButton and PrevBankButton select the next or
 # previous bank of 8 Tracks for the controls above to
@@ -297,16 +297,16 @@ MixerButtonsToggle: False
 # transport-related features.
 
 # StopButton stops playback.
-StopButton: -1
+StopButton: 118
 
 # PlayButton starts playback.
-PlayButton: -1
+PlayButton: 119 
 
 # RecButton toggles Arrangement Record.
-RecButton: -1
+RecButton: 114
 
 # SessionRecButton toggles Session Record.
-SessionRecButton: -1
+SessionRecButton: 114
 
 # OverButton toggles Arrangement Overdub.
 OverButton: -1
@@ -315,7 +315,7 @@ OverButton: -1
 MetroButton: -1
 
 # LoopButton toggles the Arrangement Loop.
-LoopButton: -1
+LoopButton: 115
 
 # RwdButton rewinds playback.
 RwdButton: -1
