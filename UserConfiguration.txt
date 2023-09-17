@@ -111,14 +111,14 @@ Pad16Channel: 2
 # control.  If 9 or more Encoders are used, the bank
 # buttons will select two banks of 8 parameters for the
 # Encoders to control.
-Encoder1: 20
-Encoder2: 21
-Encoder3: 22
-Encoder4: 23
-Encoder5: 24
-Encoder6: 25
-Encoder7: 26
-Encoder8: 27
+Encoder1: 16
+Encoder2: 17
+Encoder3: 18
+Encoder4: 19
+Encoder5: 20
+Encoder6: 21
+Encoder7: 22
+Encoder8: 23
 Encoder9: -1
 Encoder10: -1
 Encoder11: -1
@@ -127,15 +127,15 @@ Encoder13: -1
 Encoder14: -1
 Encoder15: -1
 Encoder16: -1
-EncoderChannel1: 3
-EncoderChannel2: 3
-EncoderChannel3: 3
-EncoderChannel4: 3
-EncoderChannel5: 3
-EncoderChannel6: 3
-EncoderChannel7: 3
-EncoderChannel8: 3
-EncoderChannel9: 3
+EncoderChannel1: 2
+EncoderChannel2: 2
+EncoderChannel3: 2
+EncoderChannel4: 2
+EncoderChannel5: 2
+EncoderChannel6: 2
+EncoderChannel7: 2
+EncoderChannel8: 2
+EncoderChannel9: -1
 EncoderChannel10: -1
 EncoderChannel11: -1
 EncoderChannel12: -1
@@ -176,42 +176,42 @@ LockButton: -1
 # features of 8 Tracks at a time.
 
 # VolumeSlider1-VolumeSlider8 control Track volume.
-VolumeSlider1: -1
-VolumeSlider2: -1
-VolumeSlider3: -1
-VolumeSlider4: -1
-VolumeSlider5: -1
-VolumeSlider6: -1
-VolumeSlider7: -1
-VolumeSlider8: -1
-Slider1Channel: -1
-Slider2Channel: -1
-Slider3Channel: -1
-Slider4Channel: -1
-Slider5Channel: -1
-Slider6Channel: -1
-Slider7Channel: -1
-Slider8Channel: -1
+VolumeSlider1: 8
+VolumeSlider2: 9
+VolumeSlider3: 10
+VolumeSlider4: 11
+VolumeSlider5: 12
+VolumeSlider6: 13
+VolumeSlider7: 14
+VolumeSlider8: 15
+Slider1Channel: 2
+Slider2Channel: 2
+Slider3Channel: 2
+Slider4Channel: 2
+Slider5Channel: 2
+Slider6Channel: 2
+Slider7Channel: 2
+Slider8Channel: 2
 
 # Send1Knob1-Send1Knob8 control Track Send A.
-Send1Knob1: -1
-Send1Knob2: -1
-Send1Knob3: -1
-Send1Knob4: -1
-Send1Knob5: -1
-Send1Knob6: -1
-Send1Knob7: -1
-Send1Knob8: -1
+Send1Knob1: 24
+Send1Knob2: 25
+Send1Knob3: 26
+Send1Knob4: 27
+Send1Knob5: 28
+Send1Knob6: 29
+Send1Knob7: 30
+Send1Knob8: 31
 
 # Send2Knob1-Send2Knob8 control Track Send B.
-Send2Knob1: -1
-Send2Knob2: -1
-Send2Knob3: -1
-Send2Knob4: -1
-Send2Knob5: -1
-Send2Knob6: -1
-Send2Knob7: -1
-Send2Knob8: -1
+Send2Knob1: 32
+Send2Knob2: 33
+Send2Knob3: 34
+Send2Knob4: 35
+Send2Knob5: 36
+Send2Knob6: 37
+Send2Knob7: 38
+Send2Knob8: 39
 
 # TrackMuteButton1-TrackMuteButton8 control Track muting.
 TrackMuteButton1: -1
